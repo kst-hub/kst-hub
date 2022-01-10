@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm KUTALA SURYATEJA</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kst-hub&label=Profile%20views&color=0e75b6&style=flat" alt="kst-hub" /> </p>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kst-hub" alt="kst-hub" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kst-hub?tab=overview&from=2022-01-01&to=2022-01-10](https://github.com/kst-hub?tab=overview&from=2022-01-01&to=2022-01-10)
+- 👨‍💻 All of my projects are available at (https://github.com/kst-hub?tab=overview&from=2022-01-01&to=2022-01-10)
 
 - 💬 Ask me about **ETL, Linux, Shell Scripting**
 
